@@ -130,11 +130,13 @@ footer {
 
 .portfolio-container {
 	background-color: white;
-	height: 700px;
+	height: 620px;
 }
 
 .portfolio-container h2 {
-	top: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top:15px;
 	text-align: center;
 }
 
@@ -164,6 +166,8 @@ footer {
 .experience h2 {
 	padding-top: 50px;
 	margin-left: 40px;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 .experience-box-wrap {
