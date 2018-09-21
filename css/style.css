@@ -226,8 +226,10 @@ footer {
 }
 
 .contact-wrapper {
+	height:100px;
 	align-items: center;
 	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .contact-img {
