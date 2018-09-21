@@ -27,16 +27,6 @@ nav ul {
 	padding-left: 0;
 }
 
-
-footer {
-	background-color: #5F9EA0;
-	padding:24px;
-	margin:0px;
-	color: white;
-	font-size: 12px;
-	text-align: center;
-}
-
 h1{
 	color:white;
 	font-size: 40px;
@@ -50,15 +40,6 @@ h2 {
 	font-size: 30px;
 	word-spacing: 10px; 
 	line-height: 1.3em;
-}
-
-h3 {
-	text-decoration: underline;
-	font-size: 15px;
-}
-
-td {
-	padding-right: 20px;
 }
 
 p, ul {
@@ -89,6 +70,15 @@ section img {
 	width: 200px;
 	height: 200px;
 	object-fit: cover;
+}
+
+footer {
+	background-color: #5F9EA0;
+	padding:24px;
+	margin:0px;
+	color: white;
+	font-size: 12px;
+	text-align: center;
 }
 
 .container {
